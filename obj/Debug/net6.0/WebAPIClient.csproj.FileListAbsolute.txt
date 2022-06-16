@@ -1,0 +1,15 @@
+C:\Users\FANUEL CONRAD\Documents\GitHub\WebAPIClient\bin\Debug\net6.0\WebAPIClient.exe
+C:\Users\FANUEL CONRAD\Documents\GitHub\WebAPIClient\bin\Debug\net6.0\WebAPIClient.deps.json
+C:\Users\FANUEL CONRAD\Documents\GitHub\WebAPIClient\bin\Debug\net6.0\WebAPIClient.runtimeconfig.json
+C:\Users\FANUEL CONRAD\Documents\GitHub\WebAPIClient\bin\Debug\net6.0\WebAPIClient.dll
+C:\Users\FANUEL CONRAD\Documents\GitHub\WebAPIClient\bin\Debug\net6.0\WebAPIClient.pdb
+C:\Users\FANUEL CONRAD\Documents\GitHub\WebAPIClient\obj\Debug\net6.0\WebAPIClient.csproj.AssemblyReference.cache
+C:\Users\FANUEL CONRAD\Documents\GitHub\WebAPIClient\obj\Debug\net6.0\WebAPIClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FANUEL CONRAD\Documents\GitHub\WebAPIClient\obj\Debug\net6.0\WebAPIClient.AssemblyInfoInputs.cache
+C:\Users\FANUEL CONRAD\Documents\GitHub\WebAPIClient\obj\Debug\net6.0\WebAPIClient.AssemblyInfo.cs
+C:\Users\FANUEL CONRAD\Documents\GitHub\WebAPIClient\obj\Debug\net6.0\WebAPIClient.csproj.CoreCompileInputs.cache
+C:\Users\FANUEL CONRAD\Documents\GitHub\WebAPIClient\obj\Debug\net6.0\WebAPIClient.dll
+C:\Users\FANUEL CONRAD\Documents\GitHub\WebAPIClient\obj\Debug\net6.0\refint\WebAPIClient.dll
+C:\Users\FANUEL CONRAD\Documents\GitHub\WebAPIClient\obj\Debug\net6.0\WebAPIClient.pdb
+C:\Users\FANUEL CONRAD\Documents\GitHub\WebAPIClient\obj\Debug\net6.0\WebAPIClient.genruntimeconfig.cache
+C:\Users\FANUEL CONRAD\Documents\GitHub\WebAPIClient\obj\Debug\net6.0\ref\WebAPIClient.dll
